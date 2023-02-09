@@ -1,0 +1,25 @@
+@font-face {
+    font-family: msdos;
+    src: url(../font/ModernDOS9x16.ttf);
+}
+body{
+    font-family: msdos;
+    font-size: large;
+    background-image: url(../image_background.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 5%;
+    margin: 5%;
+}
+a{
+    color: black;
+    text-decoration: underline;
+}
+.all{
+    background-color: rgb(250, 235, 188);
+    padding: 0.1%;
+    border-radius: 25px;
+    border-style: double;
+    margin-left: 35%;
+    margin-right: 35%;
+}
